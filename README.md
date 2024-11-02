@@ -7,7 +7,7 @@ Hi there! I’m currently studying for a Bachelor of Science in Computer Science
 - **Python**
 - **Java**
 - **HTML**
-- **CSS*
+- **CSS**
 - **Figma**
 
 ## 🌱 Learning Goals
