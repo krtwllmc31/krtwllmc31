@@ -22,7 +22,7 @@ I’m currently exploring:
 
 Feel free to reach out to me for collaboration or just to chat about coding! 
 
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/kurt-oswill-mc-carver-23368b326/))
+- [LinkedIn]((https://www.linkedin.com/in/kurt-oswill-mc-carver-23368b326/))
 - Email: kurtoswillmc@gmail.com
 
 
